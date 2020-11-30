@@ -1,5 +1,5 @@
 Clase 7 linea de comandos:
--> "touch archivo.extencion" crea un nombre_archivo.
+-> "touch archivo.extencion" crea un archivo.
 -> "cat archivo.extencion" permite ver el contenido de un archivo.
 ->"history" permite ver los comandos utilizados anteriormente con un numero de comando.
 -> "rm" elimina archivos de manera permanente, utilizar con mcho cuidado.
