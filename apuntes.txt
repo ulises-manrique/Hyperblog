@@ -15,3 +15,8 @@ clase 8: staging.
 ->"git commit" se mandan los cambios al repositorio"
 
 ->"checkout" obtener los cambios del proyecto, archivos o ciertos archivos.
+
+clase 9: ramas.
+
+-> "merge" fuciona dos ramas.
+
