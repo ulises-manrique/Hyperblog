@@ -1,7 +1,17 @@
-Clase 7 linea de comandos:
+Clase 7: linea de comandos.
 -> "touch archivo.extencion" crea un archivo.
 -> "cat archivo.extencion" permite ver el contenido de un archivo.
 ->"history" permite ver los comandos utilizados anteriormente con un numero de comando.
 -> "rm" elimina archivos de manera permanente, utilizar con mcho cuidado.
 
 "!no.comando" repide un comando.
+
+clase 8: staging.
+
+-> staging: area en memoria ram donde se agregan los cambios de manera inicial; el archivo se queda a la espera de ser enviado al repositorio (o agragar archivos, ser eliminado, etc). Sucede con git add.
+
+-> "git add" se mandan los cambios al staging y se "trakean" (rastrean).
+
+->"git commit" se mandan los cambios al repositorio"
+
+->"checkout" obtener los cambios del proyecto, archivos o ciertos archivos.
