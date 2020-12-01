@@ -60,3 +60,15 @@ clase 13: git reset vs git rm.
 ->"git reset no.version --hard" Borra todo. Todo todito, absolutamente todo. Toda la información de los commits y del área de staging se borra del historial.
 
 ->"git reset HEAD" Este es el comando para sacar archivos del área de Staging. Los últimos cambios de estos archivos no se envíen al último commit, a menos que cambiemos de opinión y los incluyamos de nuevo en staging con git add.
+
+clase 14: flujo de trabajo basico con un repositorio remoto.
+
+->"git clone url" Crea una copoia del master en el directorio de trabajo y crea una base de datos historica en el repositorio local.
+
+->"git pull" Copia la base de datos al repositorio local y copia el directorio de trabajo. 
+
+clase 15; introduccion a ramas o branches de git.
+
+"Master" rama principal.
+
+->"git commit -am '...'" hace "add" automaticamente a archivos previamente existentes y que ya se halla hecho "add" con anterioridad.
