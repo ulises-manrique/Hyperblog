@@ -76,3 +76,5 @@ clase 15; introduccion a ramas o branches de git.
 ->"git branch nombre_rama" crea una rama apartir de donde se encuentre el apuntador.
 
 ->"git checkout nombre_rama" cambia de rama de trabajo.
+
+"Head" es un indicador de cual version de commit se esta trabajando.
