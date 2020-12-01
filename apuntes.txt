@@ -32,3 +32,5 @@ Clase 11: Analizar cambios de en los archivos.
 ->"Git show archivo.extencion" Muestra los cambios de un archivo entre la utima version y la version anterior.
 
 Agregar comentarios en los "commit" son buenas practicas.
+
+-> "git diff No.commit No.commit" Muestra los cambios entre versiones de archivos, el orden afecta la forma en la que se muestra. Solomuestra las diferencias entre versiones del mismo archivo. 
