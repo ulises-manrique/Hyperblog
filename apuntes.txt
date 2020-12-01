@@ -38,3 +38,9 @@ Agregar comentarios en los "commit" son buenas practicas.
 clase 12: reset y checkout 
 
 ->"git reset No.version --hard/soft" 
+
+->"git log --stat" muestra los cambios de manera especifica.
+
+->"git checkout No.archivo" muestra la version anterior de un archivo. Si se guarda el archivo despues de este comando, esa version del archivo se vuelve la version master. 
+
+->"git mv nom.archivo <nueva ruta>" permite cambiar de ubicacion un archivo y/o renombrarlo. Este comando hay que utilizarlo para no perder el traking del archivo.
