@@ -13,6 +13,7 @@ clase 8: staging.
 -> "git add" se mandan los cambios al staging y se "trakean" (rastrean).
 
 ->"git commit" se mandan los cambios al repositorio"
+->"git commit -m '...'" mando los cambios al repositorio con un comentario
 
 ->"checkout" obtener los cambios del proyecto, archivos o ciertos archivos.
 
@@ -20,3 +21,8 @@ clase 9: ramas.
 
 -> "merge" fuciona dos ramas.
 
+Clase 10: creacion del repositorio.
+
+-> "git init" crea el repositorio.
+
+-> Carpeta oculta ".git" es la base de datos atomica de git
