@@ -26,3 +26,9 @@ Clase 10: creacion del repositorio.
 -> "git init" crea el repositorio.
 
 -> Carpeta oculta ".git" es la base de datos atomica de git
+
+Clase 11: Analizar cambios de en los archivos.
+
+->"Git show archivo.extencion" Muestra los cambios de un archivo entre la utima version y la version anterior.
+
+Agregar comentarios en los "commit" son buenas practicas.
