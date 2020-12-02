@@ -113,3 +113,8 @@ Comprobar proceso y agregarlo (Windows)
 Comprobar proceso y agregarlo (Mac)
 
     eval "$(ssh-agent -s)"
+
+clase 21: Conexion a github con ssh.
+
+siempre crear una llave ssh por cada equipo utilizado. Ejemplo: 3 computadoras diferentes, 3 llaves ssh diferentes, una por cada equipo.
+
