@@ -72,3 +72,11 @@ clase 15; introduccion a ramas o branches de git.
 "Master" rama principal.
 
 ->"git commit -am '...'" hace "add" automaticamente a archivos previamente existentes y que ya se halla hecho "add" con anterioridad.
+
+->"git branch nombre_rama" crea una rama apartir de donde se encuentre el apuntador.
+
+->"git checkout nombre_rama" cambia de rama de trabajo.
+
+"Head" es un indicador de cual version de commit se esta trabajando.
+
+Clase 16: Fusion de ramas con git merge.
