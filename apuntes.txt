@@ -78,3 +78,5 @@ clase 15; introduccion a ramas o branches de git.
 ->"git checkout nombre_rama" cambia de rama de trabajo.
 
 "Head" es un indicador de cual version de commit se esta trabajando.
+
+Clase 16: Fusion de ramas con git merge.
