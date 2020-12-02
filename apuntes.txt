@@ -98,3 +98,18 @@ clase 18: Uso de Github.
 ->"git remote -v" muestra las url's correspondientes para realizar fetch/pull y push.
 ->"git push origin <branch>" manda la rama indicada a el repositorio remoto.
 ->"git pull origin branch" Actualiza el repositorio desde el servidor al repositorio local. origin es el repositorio remoto, branch es la rama a la que se "copia" el repositorio, puede ser en la rama master o en cualquier otra
+
+Clase 20: configuracion de llaves ssh en local.
+
+Generar una nueva llave SSH: (Cualquier sistema operativo)
+
+->"ssh-keygen -t rsa -b 4096 -C "youremail@example.com""
+
+Comprobar proceso y agregarlo (Windows)
+
+    eval $(ssh-agent - s)
+    ssh-add ~/.ssh/id_rsa
+
+Comprobar proceso y agregarlo (Mac)
+
+    eval "$(ssh-agent -s)"
