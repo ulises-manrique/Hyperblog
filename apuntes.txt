@@ -87,3 +87,7 @@ Clase 16: Fusion de ramas con git merge.
 
 clase 17: Resolucion de conflictos al hacer un merge.
 
+1.- Guardar la calma.
+2.- Leer los archivos conflictuados.
+3.- Entender que es lo que sucede con los archivos en conflicto y buscar una solucion.
+4.- Si el trabajo es en equipo hablar con la persona que realizo los cambios que generan conflicto y buscar una solucion. 
