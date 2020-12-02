@@ -80,3 +80,7 @@ clase 15; introduccion a ramas o branches de git.
 "Head" es un indicador de cual version de commit se esta trabajando.
 
 Clase 16: Fusion de ramas con git merge.
+
+"merge" permite fusionar ramas. La rama en la que se ejecuta "merge" se vuelve la principal, si una misma linea se edita en diferentes ramas esto genera un conflicto. 
+
+->" git merge nombre_rama" fusiona las ramas donde se encuentra el "Head" y la rama indicada en el comando.
