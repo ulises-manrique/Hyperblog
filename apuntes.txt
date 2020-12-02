@@ -84,3 +84,6 @@ Clase 16: Fusion de ramas con git merge.
 "merge" permite fusionar ramas. La rama en la que se ejecuta "merge" se vuelve la principal, si una misma linea se edita en diferentes ramas esto genera un conflicto. 
 
 ->" git merge nombre_rama" fusiona las ramas donde se encuentra el "Head" y la rama indicada en el comando.
+
+clase 17: Resolucion de conflictos al hacer un merge.
+
