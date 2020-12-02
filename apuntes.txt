@@ -118,3 +118,5 @@ clase 21: Conexion a github con ssh.
 
 siempre crear una llave ssh por cada equipo utilizado. Ejemplo: 3 computadoras diferentes, 3 llaves ssh diferentes, una por cada equipo.
 
+Post en platzi de como realizar la configuracion de llaves ssh en git y github: https://platzi.com/tutoriales/1557-git-github/4067-configurar-llaves-ssh-en-git-y-github/
+
