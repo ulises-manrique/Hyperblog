@@ -91,3 +91,10 @@ clase 17: Resolucion de conflictos al hacer un merge.
 2.- Leer los archivos conflictuados.
 3.- Entender que es lo que sucede con los archivos en conflicto y buscar una solucion.
 4.- Si el trabajo es en equipo hablar con la persona que realizo los cambios que generan conflicto y buscar una solucion. 
+
+clase 18: Uso de Github.
+
+->"git remote add origin url" indica el repositorio remoto. 
+->"git remote -v" muestra las url's correspondientes para realizar fetch/pull y push.
+->"git push origin <branch>" manda la rama indicada a el repositorio remoto.
+->"git pull origin branch" Actualiza el repositorio desde el servidor al repositorio local. origin es el repositorio remoto, branch es la rama a la que se "copia" el repositorio, puede ser en la rama master o en cualquier otra
