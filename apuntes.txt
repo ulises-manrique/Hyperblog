@@ -135,3 +135,14 @@ Clase 22: Tags y versiones en git y github.
 ->"git push origin --tags" Manda las etiquetas al repositorio remoto. 
 
 ->'git push origin :refs/tags/nom_tag_eliminado' Elimina la etiqueta indicada en el servidor remoto.
+
+clase 23: manejo de ramas.
+
+->'git checkout nombre_rama' Permite cambiar de rama.
+
+->'git branch' Muestra todas las ramas existentes e indica done se encuentra el apuntador.
+
+->'git show-banch' muestra las ramas que existen y su historia.
+
+->'git show-branch --all' muestra las ramas que exiaten y su historia e informacion complementaria.
+
