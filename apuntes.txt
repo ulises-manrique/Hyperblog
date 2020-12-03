@@ -120,3 +120,18 @@ siempre crear una llave ssh por cada equipo utilizado. Ejemplo: 3 computadoras d
 
 Post en platzi de como realizar la configuracion de llaves ssh en git y github: https://platzi.com/tutoriales/1557-git-github/4067-configurar-llaves-ssh-en-git-y-github/
 
+Clase 22: Tags y versiones en git y github.
+
+->'alias nombre_comando="comando_y_sus_argumentos"'  Permite encapsular comandos largos en 'alias' para un uso mas practico.
+
+->'git tag -a nom_tag -m "mensage" hash' Permite etiquetar un commit y añadir un comentario.
+
+->'git show-ref --tags' Muestra los tags existentes y el commit correspondiente de la etiqueta.
+
+->'git tag´ Muestra las etiquetas existentes.
+
+->'git tag -d nom_tag' Elimina la etiqueta indicada.
+
+->"git push origin --tags" Manda las etiquetas al repositorio remoto. 
+
+->'git push origin :refs/tags/nom_tag_eliminado' Elimina la etiqueta indicada en el servidor remoto.
